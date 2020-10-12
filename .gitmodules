@@ -1,0 +1,3 @@
+[submodule "scons"]
+	path = scons
+	url = ./scons
